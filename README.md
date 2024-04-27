@@ -1,5 +1,5 @@
 # Tutorials-Library
-This library will consist of the tutorials section , like handle the view pager internallly
+This library will consist of the tutorials section , like handle the view pager internally
 
 How to use the dependency:
 Step 1 -> Add
